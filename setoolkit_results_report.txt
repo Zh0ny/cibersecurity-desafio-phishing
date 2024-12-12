@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   www.github.com/login
+   <url>      <param>commit=Sign+in</param>
+      <param>authenticity_token=8sGDSUeB0j5RUXD6Bqtz4ZIdtgm4HWdniLxbxCPD//yRIIzH81JlgQCIGxJf3f/gq2lmUNy3ceuy6ieqPnHm8g==</param>
+      <param>add_account=</param>
+      <param>login=ana@gmail.com</param>
+      <param>password=asd123qwezxc</param>
+      <param>webauthn-conditional=undefined</param>
+      <param>javascript-support=true</param>
+      <param>webauthn-support=unsupported</param>
+      <param>webauthn-iuvpaa-support=unsupported</param>
+      <param>return_to=https://github.com/login</param>
+      <param>allow_signup=</param>
+      <param>client_id=</param>
+      <param>integration=</param>
+      <param>required_field_a848=</param>
+      <param>timestamp=1734037169375</param>
+      <param>timestamp_secret=b957fcc8ff5c3f2783cec22a39652e007fa9554285c862c6879832701a8ecab0</param>
+   </url>
+</harvester>
